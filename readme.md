@@ -1,0 +1,1 @@
+Este projeto tem o intuito de criar uma Landing page, para praticar HTML e CSS.
